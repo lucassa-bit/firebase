@@ -1,0 +1,27 @@
+{
+  "name": "firebase-refine",
+  "version": "1.0.0",
+  "description": "Integration firebase to refine",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassa-bit/firebase-refine.git"
+  },
+  "keywords": [
+    "refine"
+  ],
+  "author": "Lucassa-bit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucassa-bit/firebase-refine/issues"
+  },
+  "homepage": "https://github.com/lucassa-bit/firebase-refine#readme",
+  "dependencies": {
+    "@refinedev/core": "^4.55.0",
+    "firebase": "^11.0.1",
+    "uuid": "^11.0.2"
+  }
+}
